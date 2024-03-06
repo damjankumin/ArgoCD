@@ -16,5 +16,5 @@ spec:
         run: deploy01
     spec:
       containers:
-      - image: damjank12/votingapp:v5
+      - image: damjank12/votingapp:v10
         name: deploy01
