@@ -12,4 +12,4 @@ spec:
     targetPort: 80
   selector:
     run: deploy01
-  type: NodePort
+  type: LoadBalancer
